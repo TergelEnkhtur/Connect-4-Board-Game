@@ -15,7 +15,7 @@
 
 • Command-line game that utilizes a 2D char array to hold the state of the game
 
-• Two players take turns to choose a column number to drop 'X' or 'O'
+• Two players take turns to choosing a column number to drop 'X' or 'O'
 
 • Game ends when there are 4 'X' or 'O' in a row, horizontally, vertically, or diagonally
 
