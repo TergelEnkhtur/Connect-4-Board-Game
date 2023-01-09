@@ -4,7 +4,7 @@
     </a>
     <h3 align="center">Connect-4-Board-Game</h3>
     <p align="center">
-        by Tergel Enkhtur
+        By Tergel Enkhtur
     </p>
 </p>
 
