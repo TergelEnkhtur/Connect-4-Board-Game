@@ -4,7 +4,7 @@
     </a>
     <h3 align="center">Connect-4-Board-Game</h3>
     <p align="center">
-        A Mini Project by Tergel Enkhtur
+        by Tergel Enkhtur
     </p>
 </p>
 
